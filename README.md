@@ -1,6 +1,6 @@
 ![](./screenshot.png)
 
-![](./ps_mini_symbol.png)
+![](./ps_mini_symbols.png)
 ![](./ps_mini_footprint.png)
 ![](./ps_mini_3dmodel.png)
 
