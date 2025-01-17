@@ -1,8 +1,4 @@
-![](./screenshot.png)
-
-![](./ps_mini_symbols.png)
-![](./ps_mini_footprint.png)
-![](./ps_mini_3dmodel.png)
+![](./assets/screenshot_title.png)
 
 # KiCAD-AZDelivery
 A Library of Footprints and Symbols of [AZ-Delivery](https://www.azde.ly/) Components for [KiCAD](https://www.kicad.org/).
