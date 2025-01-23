@@ -38,7 +38,7 @@ The 3D model of the D1 mini was taken from the github repo [rubienr / wemos-d1-m
 ![](./assets/oled066_footprint.png)
 ![](./assets/oled066_3dmodel.png)
 
-### AZ OLED 0.96" 128x644
+### AZ OLED 0.96" 128x64
 
 This component is based on the work of "Rsomething " and was taken from the github repo [the-this-pointer/kicad-my-libraries](https://github.com/the-this-pointer/kicad-my-libraries) Thank you for excellent job, especially for the 3D-Models. Please see the REAME.md in his repo for more information.
 
@@ -48,7 +48,7 @@ This component is based on the work of "Rsomething " and was taken from the gith
 ![](./assets/oled096_footprint.png)
 ![](./assets/oled096_3dmodel.png)
 
-### AZ OLED 1.3"128x644
+### AZ OLED 1.3"128x64
 
 This component is based on the work of "Rsomething " and was taken from the github repo [the-this-pointer/kicad-my-libraries](https://github.com/the-this-pointer/kicad-my-libraries) Thank you for excellent job, especially for the 3D-Models. Please see the REAME.md in his repo for more information.
 

@@ -548,40 +548,4 @@
 		(thermal_bridge_angle 0)
 		(uuid "a8e2c14c-8d91-4b0f-8594-a745cb1bdb86")
 	)
-<<<<<<< HEAD
-	(model "${KICAD_DEV_DIR}/kicad_azdelivery.github/AZ-Delivery.3dshapes/d1_mini_shield.wrl"
-		(offset
-			(xyz 12.8 -16.7 4)
-		)
-		(scale
-			(xyz 0.3937 0.3937 0.3937)
-		)
-		(rotate
-			(xyz 0 -180 0)
-		)
-	)
-	(model "${KICAD_DEV_DIR}/kicad_azdelivery.github/AZ-Delivery.3dshapes/conn-1x8-straight-long-pins.wrl"
-		(offset
-			(xyz -11.4 1.28 -1.6)
-		)
-		(scale
-			(xyz 0.3937 0.3937 0.3937)
-		)
-		(rotate
-			(xyz 0 0 90)
-		)
-	)
-	(model "${KICAD_DEV_DIR}/kicad_azdelivery.github/AZ-Delivery.3dshapes/conn-1x8-straight-long-pins.wrl"
-		(offset
-			(xyz 11.4 1.28 -1.6)
-		)
-		(scale
-			(xyz 0.3937 0.3937 0.3937)
-		)
-		(rotate
-			(xyz 0 0 -90)
-		)
-	)
-=======
->>>>>>> origin/main
 )
